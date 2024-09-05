@@ -31,9 +31,9 @@
     "lru-cache": "^6.0.0"
   },
   "devDependencies": {
-    "standard": "^11.0.1",
+    "standard": "^17.1.0",
     "standard-version": "^4.4.0",
-    "tap": "^12.7.0"
+    "tap": "^18.0.0"
   },
   "files": [
     "index.js",
